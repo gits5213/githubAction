@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat May 04 02:24:24 GMT 2024","Sat May 04 02:24:25 GMT 2024","904","","Form Authentication","","","","validate, login successful text",""
+"passed","Sat May 04 02:24:19 GMT 2024","Sat May 04 02:24:20 GMT 2024","223","","A/B Testing","","","","validate, hearder text and ab testing header text",""
+"passed","Sat May 04 02:24:22 GMT 2024","Sat May 04 02:24:22 GMT 2024","405","","Add Remove Elements","","","","validate, delete button is not visible & not exist",""
+"passed","Sat May 04 02:24:21 GMT 2024","Sat May 04 02:24:21 GMT 2024","487","","Add Remove Elements","","","","validate, add element button is visible",""
+"passed","Sat May 04 02:24:21 GMT 2024","Sat May 04 02:24:22 GMT 2024","333","","Add Remove Elements","","","","validate, delete button is visible & exist",""
